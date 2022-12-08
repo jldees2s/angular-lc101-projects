@@ -1,0 +1,9 @@
+.chores {
+    font: helvetica;
+    font-size: 15pt;
+    color: green;  
+}
+
+.li {
+    text-decoration: underline;
+}
